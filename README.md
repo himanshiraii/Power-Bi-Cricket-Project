@@ -1,4 +1,4 @@
-[Batsman.csv](https://github.com/user-attachments/files/23886175/Batsman.csv)1.Cricketing Legends – Power BI Dashboard-
+1.Cricketing Legends – Power BI Dashboard-
 A Power BI dashboard visualizing the batting careers of 10 legendary cricketers.
 This interactive report provides a deep comparative look at their performances across ODIs, Tests, and T20Is, supported by clean visuals, slicers, and custom DAX-based calculations.
 
