@@ -53,6 +53,6 @@ Screenshot:-
 
 5. 🗂 Files Included- [Cricketbat.zip](https://github.com/user-attachments/files/23886211/Cricketbat.zip) - contains dataset files used for the dashboard
 
-6. Note: All statistics are based on data available up to June 2024.
+6. Note: All statistics are based on data available up to June 2025.
 
    
